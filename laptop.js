@@ -11,7 +11,7 @@ function Laptop(make, model, year) {
 }
 
 // Create a new instance of the Laptop object
-let myLaptop = new Laptop("Apple", "MacBook Pro", 2023);
+let myLaptop = new Laptop("HP Pro Book", "G8", 2024);
 
 // Call the describe method to log information about the laptop
-myLaptop.describe(); // Output: This is a 2023 Apple MacBook Pro laptop.
+myLaptop.describe(); // Output: This is a 2024 HP probook g8 laptop.
