@@ -1,0 +1,12 @@
+{
+  "name": "laptop",
+  "version": "1.1.2",
+  "description": "my coding 100 days chelenge questions",
+  "main": " ",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "MIT "
+}
